@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "홍기영",
+        "age": 25,
+        "department": "개발팀",
+        "salary": 3500
+    },
+    {
+        "id": 2,
+        "name": "김철수",
+        "age": 30,
+        "department": "데이터팀",
+        "salary": 4200
+    },
+    {
+        "id": 3,
+        "name": "이영희",
+        "age": 28,
+        "department": "개발팀",
+        "salary": 3900
+    },
+    {
+        "id": 4,
+        "name": "박민수",
+        "age": 35,
+        "department": "기획팀",
+        "salary": 4500
+    },
+    {
+        "id": 5,
+        "name": "최수진",
+        "age": 27,
+        "department": "데이터팀",
+        "salary": 4100
+    }
+]
